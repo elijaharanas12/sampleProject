@@ -19,3 +19,6 @@ git config user.name
 git remote add origin https://github.com/elijaharanas12/sampleProject.git
 git remote get-url origin
 	// https://github.com/elijaharanas12/sampleProject.git
+git remote set-url origin https://github.com/elijaharanas12/sampleProject.git
+
+try
